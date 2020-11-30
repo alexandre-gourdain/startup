@@ -1,0 +1,51 @@
+.btn-blue{
+text-decoration: none;
+font-size: 15px;
+padding: 40px 20px;
+color: white;
+border-radius: 50%;
+font-weight: bolder;
+font-family: Roboto;
+	background: #9F6718;
+	margin-right: 20px;
+}
+
+.btn-blue:hover{
+background: url("nice-photo.jpg") center;
+color: black;
+background-size: cover;
+}
+
+.btn-green{
+text-decoration: none;
+font-size: 15px;
+padding: 40px 21px;
+color: white;
+border-radius: 50%;
+font-weight: bolder;
+font-family: Roboto;
+	background: #9F6718;
+}
+
+.btn-green:hover{
+background: url("enveloppe.jpg") center;
+color: black;
+background-size: cover;
+}
+
+.btn-orange{
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: Roboto;
+	padding: 10px 8px;
+	background: #9F6718;
+	color: white;
+	background-size: cover;
+	border-radius: 7px;
+}
+
+.btn-orange:hover{
+background: white;
+color: #9F6718;
+}
